@@ -9,7 +9,7 @@
 
 ### Preview
 
-
+![Preview](https://github.com/Mohit-005/responsive-slider-with-scroll-bar/assets/115066003/499111ef-ca8f-4707-9d81-c7fdd28f52bc)
 
 ### Useful Resources
 
